@@ -1,4 +1,4 @@
-lists all bands with glam Rock as main style
+-- lists all bands with glam Rock as main style
 -- Ordered by longevity
 SELECT
 	band_name,
